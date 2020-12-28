@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 微軟正黑體 ;
+}
+
+#card {
+    background-image: url(https://media.vogue.com.tw/photos/5fc128a532afc955eedb71ae/16:9/w_1920,c_limit/FB.jpg);
+width: 1500px;
+height: 800px;
+background-size: cover;
+/* 上 左右 下 */
+margin: 50px auto;
+padding: 30px 10px 10px;
+}
+
+#content{
+    background-color: rgba(255, 255, 255, 0.15);
+    margin: 500px auto;
+    padding: 30px;
+    color: white ;
+}
+
+h1{
+    font-size: 60px;
+}
+
+li{
+    font-size: 40px;
+}
