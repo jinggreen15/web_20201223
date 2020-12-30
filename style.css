@@ -14,6 +14,13 @@ margin: 50px auto;
 padding: 30px 10px 10px;
 }
 
+/* 卡片滑入 */
+#card:hover{
+    /* 變形 放大(倍數) */
+transform: scale(1.1);
+
+}
+
 #content{
     background-color: rgba(255, 255, 255, 0.15);
     margin: 500px auto;
@@ -27,4 +34,10 @@ h1{
 
 li{
     font-size: 40px;
+}
+
+footer{
+    font-size: 120px;
+    text-align: center;
+    color: rgb(236, 233, 233);
 }
